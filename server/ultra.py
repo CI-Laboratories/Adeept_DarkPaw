@@ -38,6 +38,8 @@ def checkdist():       #Reading distance
         else:
             return (t2-t1)*340/2
 
+
+            
 # def checkdist():       #Reading distance
 #     GPIO.setmode(GPIO.BCM)
 #     GPIO.setup(Tr, GPIO.OUT,initial=GPIO.LOW)
